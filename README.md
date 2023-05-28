@@ -1,1 +1,1 @@
-# hercule_project
+# Hercule Project
