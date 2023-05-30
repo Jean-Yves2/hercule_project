@@ -212,3 +212,15 @@ body {
     text-align: center;
     color: #aaa;
 }
+
+
+@media (min-width: 500px) {
+    .nav-links {
+    display:flex;
+    justify-content: center;
+    }
+    .nav-item {
+    font-size: 1rem;
+    margin:1rem
+    }
+}
